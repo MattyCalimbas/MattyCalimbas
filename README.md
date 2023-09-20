@@ -5,7 +5,7 @@ I'm a passionate front-end developer with a love for creating elegant and respon
 ## 💼 Skills
 
 - HTML5, CSS3, JavaScript (ES6+)
-- React.js, Vue.js
+- React.js
 - Responsive Web Design
 - CSS Preprocessors (Sass/SCSS, Less)
 - Front-end Build Tools (Webpack, Parcel)
